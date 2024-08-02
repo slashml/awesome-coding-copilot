@@ -114,9 +114,9 @@ Open-source projects that complement or enhance AI-assisted coding:
 
 Discussions and resources on the ethical considerations and challenges in AI-assisted coding:
 
-- [The Ethics of AI-Assisted Coding](https://cacm.acm.org/magazines/2023/5/272301-the-ethics-of-ai-assisted-coding/fulltext) - ACM article on ethical considerations
-- [Challenges in AI-Assisted Coding](https://arxiv.org/abs/2304.00473) - Research paper on challenges and future directions
-- [Copyright and AI-Generated Code](https://www.jdsupra.com/legalnews/copyright-and-ai-generated-code-9263076/) - Legal perspective on AI-generated code
+- [The Ethics of AI-Assisted Coding](https://dl.acm.org/doi/10.1145/3635715) - ACM article on ethical considerations
+- [Challenges in AI-Assisted Coding](https://arxiv.org/abs/2402.04141) - Research paper on challenges and future directions
+- [Copyright and AI-Generated Code](https://arxiv.org/abs/2402.02333) - Legal perspective on AI-generated code
 
 
 
