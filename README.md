@@ -26,8 +26,8 @@ This is a curated list of resources related to coding-copilot and related tools.
 
 These plugins integrate AI-assisted coding capabilities into various development environments:
 
-- [copilot-clone](https://github.com/slashml/copilot-clone) - An open-source alternative to GitHub Copilot
-- [fauxpilot](https://github.com/slashml/fauxpilot) - An open-source alternative to GitHub Copilot server
+- [copilot-clone](https://github.com/hieunc229/copilot-clone) - An open-source alternative to GitHub Copilot
+- [fauxpilot](https://github.com/fauxpilot/fauxpilot) - An open-source alternative to GitHub Copilot server
 
 ## Models
 
