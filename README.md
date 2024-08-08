@@ -28,6 +28,7 @@ These plugins integrate AI-assisted coding capabilities into various development
 
 - [copilot-clone](https://github.com/hieunc229/copilot-clone) - An open-source alternative to GitHub Copilot
 - [fauxpilot](https://github.com/fauxpilot/fauxpilot) - An open-source alternative to GitHub Copilot server
+- [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code
 
 ## Models
 
