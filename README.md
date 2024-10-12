@@ -26,6 +26,7 @@ This is a curated list of resources related to coding-copilot and related tools.
 
 These plugins integrate AI-assisted coding capabilities into various development environments:
 
+- [batchai](https://github.com/qiangyt/batchai) - A supplement to Copilot and Cursor - utilizes AI for batch processing of project codes
 - [copilot-clone](https://github.com/hieunc229/copilot-clone) - An open-source alternative to GitHub Copilot
 - [fauxpilot](https://github.com/fauxpilot/fauxpilot) - An open-source alternative to GitHub Copilot server
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code
