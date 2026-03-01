@@ -30,6 +30,7 @@ These plugins integrate AI-assisted coding capabilities into various development
 - [fauxpilot](https://github.com/fauxpilot/fauxpilot) - An open-source alternative to GitHub Copilot server
 - [twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code
 - [claude-dev](https://github.com/saoudrizwan/claude-dev) - Autonomous software engineer right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
+- [OpenPaw](https://github.com/daxaur/openpaw) - Open-source CLI tool (`npx pawmode`) that turns Claude Code into a personal assistant with 38 skills — email, calendar, Spotify, smart home, Slack, GitHub, and more.
 
 
 ## Models
